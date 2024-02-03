@@ -1,7 +1,10 @@
-lalalala
+
 lalalaal
 lalalala
 alalalala
 
 More text here
 alalalalaaa
+
+Even more text to test in git gui
+asdasdasda
